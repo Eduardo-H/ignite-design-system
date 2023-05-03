@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@xunito-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@xunito-ui/eslint-config": "*",
+    "@xunito-ui/tokens": "*",
+    "@xunito-ui/ts-config": "*",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.1",
     "react": "^18.2.0",
