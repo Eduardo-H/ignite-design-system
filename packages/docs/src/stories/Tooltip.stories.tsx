@@ -5,7 +5,7 @@ import type { Meta, StoryObj } from '@storybook/react'
 import { Button, Tooltip, TooltipProps } from '@xunito-ui/react'
 
 export default {
-  title: 'Typography/Tooltip',
+  title: 'Tooltip',
   component: Tooltip,
   args: {
     text: 'Example text',
