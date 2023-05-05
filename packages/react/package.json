@@ -1,6 +1,6 @@
 {
   "name": "@xunito-ui/react",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,11 +14,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
     "@xunito-ui/eslint-config": "*",
     "@xunito-ui/tokens": "*",
     "@xunito-ui/ts-config": "*",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.1",
     "react": "^18.2.0",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
@@ -26,6 +26,7 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.2",
     "@radix-ui/react-checkbox": "^1.0.3",
+    "@radix-ui/react-tooltip": "^1.0.5",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }
